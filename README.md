@@ -13,7 +13,7 @@ Tents and Trees is a solo grid puzzle game (NxN). The elements are tents, trees,
 The goal of this project is to develop a logical AI capable of solving all possible Tents and Trees puzzles.
 
 ## Course Information
-This project was developed for the Logic for Programming subject.
+This project was developed for the Logic for Programming subject, (2023/2024).
 
 __Note__: The game is in Portuguese (due to project specifications), but it is easy to understand.
 
